@@ -22,7 +22,9 @@ function App() {
             {coins}
           </button>
           <p>
-
+            Tracks used: <a href="https://heavenpierceher.bandcamp.com/track/the-fire-is-gone-for-piano-saxophone-and-trumpet">The Fire is Gone by Hakita</a><br></br>
+            Video footage is from ULTRAKILL.<br></br>
+            Coin texture is also from ULTRAKILL.        
           </p>
         </div>
       </div>
